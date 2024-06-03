@@ -1,0 +1,26 @@
+{
+	"processInformation": {
+		"application":"FunctionApp",
+		"resourceName":"nome_do_function_app",
+		"applicationName":"nome_da_function",
+		"processDescription":"Descrição do processo"
+	},
+	"DatasetSource":[
+		{
+			"Name": "exemplo_source_componente",
+			"FileSystem":"data",
+			"Directory": "",
+			"FileName": ""
+		}
+	],
+	"DatasetTarget": [
+		{
+			"Name": "exemplo_target_componente",
+			"FileSystem":"data",
+			"Directory": "",
+			"FileName": ""
+		}
+		
+		
+	]
+}
